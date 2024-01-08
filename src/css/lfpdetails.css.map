@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": ";AAAA,sBAAuB;EACrB,OAAO,EAAE,IAAI;EACb,cAAc,EAAE,MAAM;EACtB,WAAW,EAAE,MAAM;EACnB,eAAe,EAAE,MAAM;EACvB,KAAK,EAAE,IAAI;EACX,SAAS,EAAE,MAAM;EACjB,UAAU,EAAE,IAAI",
+"sources": ["../scss/lfpdetails.scss"],
+"names": [],
+"file": "lfpdetails.css"
+}

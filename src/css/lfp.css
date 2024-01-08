@@ -1,0 +1,129 @@
+/* line 1, ../scss/lfp.scss */
+.lfp_container {
+  width: 100%;
+  max-width: 1520px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+  margin: 50px 0 50px 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  padding-left: 170px;
+}
+/* line 11, ../scss/lfp.scss */
+.lfp_container .lfp_left {
+  height: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  margin-top: 30px;
+}
+/* line 17, ../scss/lfp.scss */
+.lfp_container .lfp_left .lfp_left_top {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+/* line 21, ../scss/lfp.scss */
+.lfp_container .lfp_left .lfp_left_top .lfp_left_top_header {
+  width: 540px;
+  color: #091133;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 48px;
+  margin-bottom: 16px;
+}
+/* line 31, ../scss/lfp.scss */
+.lfp_container .lfp_left .lfp_left_top .lfp_left_top_content {
+  width: 540px;
+  color: #6f7cb2;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+}
+/* line 41, ../scss/lfp.scss */
+.lfp_container .lfp_left .lfp_left_bottom {
+  width: 540px;
+  margin-top: 80px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+/* line 48, ../scss/lfp.scss */
+.lfp_container .lfp_left .lfp_left_bottom .lfp_bottom_left {
+  width: 255px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+}
+/* line 54, ../scss/lfp.scss */
+.lfp_container .lfp_left .lfp_left_bottom .lfp_bottom_left:nth-child(1) {
+  margin-right: 30px;
+}
+/* line 58, ../scss/lfp.scss */
+.lfp_container .lfp_left .lfp_left_bottom .lfp_bottom_left img {
+  width: 36px;
+  height: 36px;
+  margin-bottom: 14px;
+}
+/* line 64, ../scss/lfp.scss */
+.lfp_container .lfp_left .lfp_left_bottom .lfp_bottom_left .lfp_bottom_header {
+  width: 255px;
+  color: #091133;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 26px;
+  margin-bottom: 5px;
+}
+/* line 73, ../scss/lfp.scss */
+.lfp_container .lfp_left .lfp_left_bottom .lfp_bottom_left .lfp_bottom_content {
+  width: 255px;
+  color: #5d6970;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px;
+}
+/* line 85, ../scss/lfp.scss */
+.lfp_container .lfp_right {
+  width: 540px;
+  height: 525px;
+}
+/* line 89, ../scss/lfp.scss */
+.lfp_container .lfp_right img {
+  width: 100%;
+  height: 100%;
+}
+
+/*# sourceMappingURL=lfp.css.map */

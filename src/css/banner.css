@@ -1,0 +1,147 @@
+/* line 1, ../scss/banner.scss */
+.banner_container {
+  max-width: 1520px;
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+}
+/* line 7, ../scss/banner.scss */
+.banner_container .banner_rep {
+  width: 100%;
+  max-width: 1520px;
+  z-index: -11;
+  position: relative;
+}
+/* line 13, ../scss/banner.scss */
+.banner_container .banner_rep .banner_path {
+  position: absolute;
+  z-index: -10;
+  width: 945px;
+  height: 980px;
+  right: 0px;
+  opacity: 0.5px;
+}
+/* line 23, ../scss/banner.scss */
+.banner_container .banner_details {
+  width: 100%;
+  max-width: 1520px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  margin-top: 140px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+/* line 33, ../scss/banner.scss */
+.banner_container .banner_details .left_details {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  margin-top: 90px;
+  margin-left: 170px;
+}
+/* line 39, ../scss/banner.scss */
+.banner_container .banner_details .left_details .left_text {
+  width: 539px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+/* line 44, ../scss/banner.scss */
+.banner_container .banner_details .left_details .left_text .left_header {
+  color: #091133;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 66px;
+  letter-spacing: 1px;
+  margin-bottom: 20px;
+}
+/* line 54, ../scss/banner.scss */
+.banner_container .banner_details .left_details .left_text .left_context {
+  color: #505f98;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 30px;
+  margin-bottom: 70px;
+}
+/* line 63, ../scss/banner.scss */
+.banner_container .banner_details .left_details .left_link_container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+/* line 67, ../scss/banner.scss */
+.banner_container .banner_details .left_details .left_link_container .left_links_1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  color: white;
+  width: 185px;
+  height: 32px;
+  border-radius: 5px;
+  border: 2px solid #111b47;
+  background-color: #111b47;
+  margin-right: 30px;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+/* line 80, ../scss/banner.scss */
+.banner_container .banner_details .left_details .left_link_container .left_links_1:hover, .banner_container .banner_details .left_details .left_link_container .left_links_1:focus {
+  background-color: white;
+  color: #111b47;
+}
+/* line 86, ../scss/banner.scss */
+.banner_container .banner_details .left_details .left_link_container .left_links_2 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 189px;
+  height: 32px;
+  border-radius: 5px;
+  border: 2px solid #091133;
+  -webkit-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+/* line 96, ../scss/banner.scss */
+.banner_container .banner_details .left_details .left_link_container .left_links_2:hover, .banner_container .banner_details .left_details .left_link_container .left_links_2:focus {
+  background-color: #091133;
+  color: white;
+}
+
+/*# sourceMappingURL=banner.css.map */

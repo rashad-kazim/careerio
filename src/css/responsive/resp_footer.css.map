@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,0CAA2C;;EACzC,iBAAkB;IAChB,OAAO,EAAE,SAAS;;;AAItB,yCAA0C;;EACxC,iBAAkB;IAChB,OAAO,EAAE,SAAS;;;EAElB,kCAAiB;IACf,cAAc,EAAE,MAAM;;;EAEtB,2CAAS;IACP,aAAa,EAAE,IAAI;;;EAGrB,2CAAS;IACP,aAAa,EAAE,IAAI;;;EAIvB,mCAAkB;IAChB,UAAU,EAAE,IAAI;IAChB,aAAa,EAAE,IAAI;;;EAGrB,iCAAgB;IACd,cAAc,EAAE,MAAM;;;EAEtB,8CAAa;IACX,aAAa,EAAE,IAAI;;;EAGjB,wEAAe;IACb,MAAM,EAAE,MAAM",
+"sources": ["../../scss/responsive/footer.scss"],
+"names": [],
+"file": "resp_footer.css"
+}

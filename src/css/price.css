@@ -1,0 +1,101 @@
+/* line 1, ../scss/price.scss */
+.price_container {
+  width: 100%;
+  max-width: 1520px;
+  height: 650px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+  margin-top: 50px;
+  padding-top: 60px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background-image: url("../Images/price.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+/* line 17, ../scss/price.scss */
+.price_container .price_header {
+  width: 680px;
+  color: #091133;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 48px;
+  margin-bottom: 16px;
+}
+/* line 27, ../scss/price.scss */
+.price_container .price_content {
+  width: 600px;
+  color: #6f7cb2;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+  margin-bottom: 36px;
+}
+/* line 37, ../scss/price.scss */
+.price_container .price_bar {
+  width: 350px;
+  color: #222f65;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 66px;
+  letter-spacing: 1px;
+  margin-bottom: 5px;
+}
+/* line 48, ../scss/price.scss */
+.price_container .price_name {
+  width: 350px;
+  color: #37447e;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+  margin-bottom: 60px;
+}
+/* line 58, ../scss/price.scss */
+.price_container .price_sos {
+  width: 350px;
+  color: #5d6970;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  margin-bottom: 10px;
+}
+/* line 68, ../scss/price.scss */
+.price_container .price_button {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 189px;
+  height: 32px;
+  border-radius: 5px;
+  background: #111b47;
+  color: #fff;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+}
+
+/*# sourceMappingURL=price.css.map */

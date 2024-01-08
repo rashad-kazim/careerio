@@ -1,0 +1,229 @@
+@media only screen and (max-width: 1110px) {
+  /* line 2, ../../scss/responsive/card.scss */
+  .card_container {
+    margin-bottom: 50px;
+    margin-top: 0;
+    padding: 0px 50px;
+    -ms-flex-pack: distribute;
+        justify-content: space-around;
+  }
+  /* line 8, ../../scss/responsive/card.scss */
+  .card_container .img_container {
+    width: 480px;
+    height: 315px;
+    margin-right: 105px;
+  }
+}
+@media only screen and (max-width: 1050px) {
+  /* line 18, ../../scss/responsive/card.scss */
+  .card_container .img_container {
+    width: 460px;
+    height: 270px;
+    margin-right: 55px;
+  }
+}
+@media only screen and (max-width: 970px) {
+  /* line 28, ../../scss/responsive/card.scss */
+  .card_container .img_container {
+    width: 460px;
+    height: 250px;
+    margin-right: 55px;
+  }
+}
+@media only screen and (max-width: 900px) {
+  /* line 38, ../../scss/responsive/card.scss */
+  .card_container .img_container {
+    width: 440px;
+    height: 240px;
+    margin-right: 55px;
+  }
+  /* line 44, ../../scss/responsive/card.scss */
+  .card_container .card_right {
+    width: 430px;
+    height: auto;
+  }
+  /* line 48, ../../scss/responsive/card.scss */
+  .card_container .card_right .card_header {
+    width: 430px;
+    font-size: 34px;
+    margin-bottom: 10px;
+  }
+  /* line 54, ../../scss/responsive/card.scss */
+  .card_container .card_right .card_content {
+    width: 430px;
+    font-size: 16px;
+  }
+  /* line 59, ../../scss/responsive/card.scss */
+  .card_container .card_right .card_button {
+    margin-top: 24px;
+  }
+}
+@media only screen and (max-width: 850px) {
+  /* line 68, ../../scss/responsive/card.scss */
+  .card_container .img_container {
+    width: 420px;
+    height: 230px;
+    margin-right: 25px;
+  }
+  /* line 74, ../../scss/responsive/card.scss */
+  .card_container .card_right {
+    width: 420px;
+    height: auto;
+  }
+  /* line 78, ../../scss/responsive/card.scss */
+  .card_container .card_right .card_header {
+    width: 420px;
+    font-size: 33px;
+    margin-bottom: 10px;
+  }
+  /* line 84, ../../scss/responsive/card.scss */
+  .card_container .card_right .card_content {
+    width: 420px;
+    font-size: 15px;
+  }
+  /* line 89, ../../scss/responsive/card.scss */
+  .card_container .card_right .card_button {
+    margin-top: 14px;
+  }
+}
+@media only screen and (max-width: 820px) {
+  /* line 97, ../../scss/responsive/card.scss */
+  .card_container {
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    margin-top: 0px;
+    margin-bottom: 60px;
+  }
+  /* line 102, ../../scss/responsive/card.scss */
+  .card_container:nth-child(3) {
+    margin-bottom: 30px;
+  }
+  /* line 106, ../../scss/responsive/card.scss */
+  .card_container .img_container {
+    width: 400px;
+    height: 250px;
+    margin-right: 0px;
+    margin-bottom: 25px;
+  }
+  /* line 113, ../../scss/responsive/card.scss */
+  .card_container .card_right {
+    width: 80%;
+    height: auto;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    text-align: center;
+  }
+  /* line 120, ../../scss/responsive/card.scss */
+  .card_container .card_right .card_header {
+    width: 100%;
+    font-size: 33px;
+    margin-bottom: 5px;
+  }
+  /* line 126, ../../scss/responsive/card.scss */
+  .card_container .card_right .card_content {
+    width: 100%;
+    font-size: 16px;
+  }
+  /* line 131, ../../scss/responsive/card.scss */
+  .card_container .card_right .card_button {
+    margin-top: 20px;
+  }
+}
+@media only screen and (max-width: 700px) {
+  /* line 139, ../../scss/responsive/card.scss */
+  .card_container {
+    padding: 0 30px;
+  }
+  /* line 141, ../../scss/responsive/card.scss */
+  .card_container .img_container {
+    width: 370px;
+    height: 240px;
+  }
+  /* line 145, ../../scss/responsive/card.scss */
+  .card_container .card_right {
+    width: 85%;
+  }
+  /* line 147, ../../scss/responsive/card.scss */
+  .card_container .card_right .card_header {
+    font-size: 31px;
+    margin-bottom: 10px;
+  }
+  /* line 152, ../../scss/responsive/card.scss */
+  .card_container .card_right .card_content {
+    font-size: 15px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  /* line 161, ../../scss/responsive/card.scss */
+  .card_container .img_container {
+    width: 330px;
+    height: 210px;
+  }
+  /* line 166, ../../scss/responsive/card.scss */
+  .card_container .card_right .card_header {
+    font-size: 29px;
+    margin-bottom: 10px;
+  }
+  /* line 171, ../../scss/responsive/card.scss */
+  .card_container .card_right .card_content {
+    font-size: 15px;
+  }
+}
+@media only screen and (max-width: 550px) {
+  /* line 179, ../../scss/responsive/card.scss */
+  .card_container {
+    padding: 0px 20px;
+  }
+  /* line 181, ../../scss/responsive/card.scss */
+  .card_container .img_container {
+    width: 310px;
+    height: 200px;
+  }
+  /* line 185, ../../scss/responsive/card.scss */
+  .card_container .card_right {
+    width: 90%;
+  }
+  /* line 187, ../../scss/responsive/card.scss */
+  .card_container .card_right .card_header {
+    font-size: 28px;
+    margin-bottom: 5px;
+  }
+  /* line 192, ../../scss/responsive/card.scss */
+  .card_container .card_right .card_content {
+    font-size: 14px;
+    letter-spacing: 1px;
+  }
+}
+@media only screen and (max-width: 414px) {
+  /* line 201, ../../scss/responsive/card.scss */
+  .card_container {
+    padding: 0px 15px;
+  }
+  /* line 203, ../../scss/responsive/card.scss */
+  .card_container .img_container {
+    width: 300px;
+    height: 200px;
+  }
+  /* line 207, ../../scss/responsive/card.scss */
+  .card_container .card_right {
+    width: 95%;
+  }
+  /* line 209, ../../scss/responsive/card.scss */
+  .card_container .card_right .card_header {
+    font-size: 28px;
+    margin-bottom: 5px;
+  }
+  /* line 214, ../../scss/responsive/card.scss */
+  .card_container .card_right .card_content {
+    font-size: 14px;
+    letter-spacing: 1px;
+  }
+}
+
+/*# sourceMappingURL=resp_card.css.map */

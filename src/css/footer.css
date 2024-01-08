@@ -1,0 +1,134 @@
+/* line 1, ../scss/footer.scss */
+.footer_container {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  max-width: 1600px;
+  width: 100%;
+  background-color: #e7ecff;
+  padding: 68px 170px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+/* line 10, ../scss/footer.scss */
+.footer_container .first_container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  width: 100%;
+}
+/* line 16, ../scss/footer.scss */
+.footer_container .first_container .company {
+  color: #939ea4;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px;
+}
+/* line 24, ../scss/footer.scss */
+.footer_container .first_container .landing {
+  color: #37447e;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 900;
+  line-height: 38px;
+}
+/* line 32, ../scss/footer.scss */
+.footer_container .first_container .purchase_button {
+  width: 109px;
+  height: 26px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  border-radius: 5px;
+  background: #111b47;
+}
+/* line 41, ../scss/footer.scss */
+.footer_container .first_container .purchase_button .button_insert {
+  color: #fff;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 18px;
+}
+/* line 51, ../scss/footer.scss */
+.footer_container .footer_rectangle {
+  width: 100%;
+  height: 2px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+  background-color: #cdd1d4;
+}
+/* line 59, ../scss/footer.scss */
+.footer_container .last_container {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+/* line 65, ../scss/footer.scss */
+.footer_container .last_container .footer_menu {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+/* line 69, ../scss/footer.scss */
+.footer_container .last_container .footer_menu .footer_item {
+  color: #929ecc;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+}
+/* line 76, ../scss/footer.scss */
+.footer_container .last_container .footer_menu .footer_item:nth-child(2) {
+  margin: 0 60px;
+}
+/* line 82, ../scss/footer.scss */
+.footer_container .last_container .sm_container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+}
+/* line 86, ../scss/footer.scss */
+.footer_container .last_container .sm_container .sm_icons {
+  margin-right: 15px;
+  width: 16px;
+  height: 16px;
+}
+/* line 91, ../scss/footer.scss */
+.footer_container .last_container .sm_container .sm_icons:nth-child(4) {
+  margin-right: 0px;
+}
+
+/*# sourceMappingURL=footer.css.map */

@@ -1,0 +1,82 @@
+.price_container {
+  width: 100%;
+  max-width: 1520px;
+  height: 650px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 50px;
+  padding-top: 60px;
+  box-sizing: border-box;
+  background-image: url("../Images/price.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  .price_header {
+    width: 680px;
+    color: #091133;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 48px;
+    margin-bottom: 16px;
+  }
+
+  .price_content {
+    width: 600px;
+    color: #6f7cb2;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    margin-bottom: 36px;
+  }
+
+  .price_bar {
+    width: 350px;
+    color: #222f65;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 66px;
+    letter-spacing: 1px;
+    margin-bottom: 5px;
+  }
+
+  .price_name {
+    width: 350px;
+    color: #37447e;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 26px;
+    margin-bottom: 60px;
+  }
+
+  .price_sos {
+    width: 350px;
+    color: #5d6970;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-bottom: 10px;
+  }
+
+  .price_button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 189px;
+    height: 32px;
+    border-radius: 5px;
+    background: #111b47;
+    color: #fff;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+  }
+}

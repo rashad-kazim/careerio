@@ -1,0 +1,286 @@
+@media only screen and (max-width: 1525px) {
+  /* line 2, ../../scss/responsive/lfp.scss */
+  .lfp_container {
+    padding-left: 165px;
+  }
+}
+@media only screen and (max-width: 1510px) {
+  /* line 7, ../../scss/responsive/lfp.scss */
+  .lfp_container {
+    padding-left: 160px;
+  }
+}
+@media only screen and (max-width: 1465px) {
+  /* line 12, ../../scss/responsive/lfp.scss */
+  .lfp_container {
+    padding-left: 155px;
+  }
+}
+@media only screen and (max-width: 1455px) {
+  /* line 17, ../../scss/responsive/lfp.scss */
+  .lfp_container {
+    padding-left: 150px;
+  }
+}
+@media only screen and (max-width: 1410px) {
+  /* line 22, ../../scss/responsive/lfp.scss */
+  .lfp_container {
+    padding-left: 145px;
+  }
+}
+@media only screen and (max-width: 1380px) {
+  /* line 27, ../../scss/responsive/lfp.scss */
+  .lfp_container {
+    margin: 40px 0;
+    padding-left: 140px;
+  }
+  /* line 31, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_right {
+    width: 530px;
+    height: 490px;
+  }
+}
+@media only screen and (max-width: 1340px) {
+  /* line 38, ../../scss/responsive/lfp.scss */
+  .lfp_container {
+    padding-left: 135px;
+  }
+}
+@media only screen and (max-width: 1330px) {
+  /* line 47, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_left .lfp_left_top .lfp_left_top_header {
+    width: 510px;
+  }
+  /* line 51, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_left .lfp_left_top .lfp_left_top_content {
+    width: 510px;
+  }
+  /* line 56, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_left .lfp_left_bottom {
+    width: 510px;
+  }
+  /* line 61, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_right {
+    width: 520px;
+    height: 470px;
+  }
+}
+@media only screen and (max-width: 1310px) {
+  /* line 69, ../../scss/responsive/lfp.scss */
+  .lfp_container {
+    padding-left: 130px;
+  }
+}
+@media only screen and (max-width: 1300px) {
+  /* line 75, ../../scss/responsive/lfp.scss */
+  .lfp_container {
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    padding-right: 15px;
+  }
+}
+@media only screen and (max-width: 1280px) {
+  /* line 82, ../../scss/responsive/lfp.scss */
+  .lfp_container {
+    padding-left: 125px;
+  }
+}
+@media only screen and (max-width: 1250px) {
+  /* line 88, ../../scss/responsive/lfp.scss */
+  .lfp_container {
+    padding-left: 120px;
+  }
+}
+@media only screen and (max-width: 1190px) {
+  /* line 94, ../../scss/responsive/lfp.scss */
+  .lfp_container {
+    padding-right: 0px;
+  }
+  /* line 99, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_left .lfp_left_top .lfp_left_top_header {
+    width: 490px;
+  }
+  /* line 103, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_left .lfp_left_top .lfp_left_top_content {
+    width: 490px;
+  }
+  /* line 108, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_left .lfp_left_bottom {
+    width: 490px;
+  }
+  /* line 111, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_left .lfp_left_bottom .lfp_bottom_left {
+    width: 245px;
+  }
+  /* line 114, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_left .lfp_left_bottom .lfp_bottom_left .lfp_bottom_header {
+    width: 245px;
+  }
+  /* line 118, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_left .lfp_left_bottom .lfp_bottom_left .lfp_bottom_content {
+    width: 245px;
+  }
+  /* line 125, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_right {
+    width: 460px;
+    height: 450px;
+  }
+}
+@media only screen and (max-width: 1100px) {
+  /* line 132, ../../scss/responsive/lfp.scss */
+  .lfp_container {
+    padding-right: 0px;
+  }
+  /* line 137, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_left .lfp_left_top .lfp_left_top_header {
+    width: 470px;
+  }
+  /* line 141, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_left .lfp_left_top .lfp_left_top_content {
+    width: 470px;
+  }
+  /* line 146, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_left .lfp_left_bottom {
+    width: 470px;
+  }
+  /* line 149, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_left .lfp_left_bottom .lfp_bottom_left {
+    width: calc(470px / 2);
+  }
+  /* line 152, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_left .lfp_left_bottom .lfp_bottom_left .lfp_bottom_header {
+    width: calc(470px / 2);
+  }
+  /* line 156, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_left .lfp_left_bottom .lfp_bottom_left .lfp_bottom_content {
+    width: calc(470px / 2);
+  }
+  /* line 163, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_right {
+    width: 430px;
+    height: 440px;
+  }
+}
+@media only screen and (max-width: 1050px) {
+  /* line 170, ../../scss/responsive/lfp.scss */
+  .lfp_container {
+    padding-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 30px;
+  }
+  /* line 175, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_left {
+    width: 100%;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    text-align: center;
+  }
+  /* line 182, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_left .lfp_left_top .lfp_left_top_header {
+    width: 580px;
+    font-size: 33px;
+  }
+  /* line 187, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_left .lfp_left_top .lfp_left_top_content {
+    width: 580px;
+    font-size: 15px;
+  }
+  /* line 193, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_left .lfp_left_bottom {
+    width: 590px;
+  }
+  /* line 196, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_left .lfp_left_bottom .lfp_bottom_left {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    width: calc(590px / 2);
+  }
+  /* line 201, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_left .lfp_left_bottom .lfp_bottom_left .lfp_bottom_header {
+    width: calc(590px / 2);
+  }
+  /* line 205, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_left .lfp_left_bottom .lfp_bottom_left .lfp_bottom_content {
+    width: calc(590px / 2);
+  }
+  /* line 212, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_right {
+    display: none;
+  }
+}
+@media only screen and (max-width: 700px) {
+  /* line 222, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_left .lfp_left_top .lfp_left_top_header {
+    font-size: 28px;
+  }
+  /* line 226, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_left .lfp_left_top .lfp_left_top_content {
+    font-size: 14px;
+  }
+  /* line 231, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_left .lfp_left_bottom {
+    width: 100%;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    -webkit-box-align: center;
+        -ms-flex-align: center;
+            align-items: center;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    margin-top: 40px;
+  }
+  /* line 239, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_left .lfp_left_bottom .lfp_bottom_left:nth-child(1) {
+    margin-right: 0px;
+    margin-bottom: 30px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  /* line 250, ../../scss/responsive/lfp.scss */
+  .lfp_container {
+    padding: 0 20px;
+  }
+  /* line 254, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_left .lfp_left_top .lfp_left_top_header {
+    width: auto;
+    height: auto;
+    font-size: 25px;
+  }
+  /* line 260, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_left .lfp_left_top .lfp_left_top_content {
+    width: auto;
+    height: auto;
+    font-size: 14px;
+  }
+}
+@media only screen and (max-width: 450px) {
+  /* line 271, ../../scss/responsive/lfp.scss */
+  .lfp_container {
+    padding: 0 20px;
+  }
+  /* line 275, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_left .lfp_left_top .lfp_left_top_header {
+    margin-bottom: 0px;
+    font-size: 22px;
+  }
+  /* line 280, ../../scss/responsive/lfp.scss */
+  .lfp_container .lfp_left .lfp_left_top .lfp_left_top_content {
+    width: auto;
+    height: auto;
+    font-size: 14px;
+  }
+}
+
+/*# sourceMappingURL=resp_lfp.css.map */

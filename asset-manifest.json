@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/careerio/static/css/main.204c41e8.css",
+    "main.js": "/careerio/static/js/main.4676c9c0.js",
+    "static/js/787.6207ec28.chunk.js": "/careerio/static/js/787.6207ec28.chunk.js",
+    "static/media/Roboto-Medium.ttf": "/careerio/static/media/Roboto-Medium.7c8d04cd831df3033c8a.ttf",
+    "static/media/map.png": "/careerio/static/media/map.12ea2ebb99335e1e0de2.png",
+    "static/media/group.png": "/careerio/static/media/group.5abffd8ce2d135ad1d35.png",
+    "static/media/chip.png": "/careerio/static/media/chip.9bec6d143862d2eb231f.png",
+    "static/media/card_2.png": "/careerio/static/media/card_2.e671ff9ffd38ac6e4a19.png",
+    "static/media/card_3.png": "/careerio/static/media/card_3.b7e6e12b6e0e1ac00629.png",
+    "static/media/card_1.png": "/careerio/static/media/card_1.7e45bf59b3340605c186.png",
+    "static/media/lfp.png": "/careerio/static/media/lfp.e65fce5cc26117548a3a.png",
+    "static/media/path.png": "/careerio/static/media/path.5b4a269ad5f391f25b85.png",
+    "static/media/price.png": "/careerio/static/media/price.2c53f113b7bcfceb995c.png",
+    "index.html": "/careerio/index.html",
+    "main.204c41e8.css.map": "/careerio/static/css/main.204c41e8.css.map",
+    "main.4676c9c0.js.map": "/careerio/static/js/main.4676c9c0.js.map",
+    "787.6207ec28.chunk.js.map": "/careerio/static/js/787.6207ec28.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.204c41e8.css",
+    "static/js/main.4676c9c0.js"
+  ]
+}

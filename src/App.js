@@ -12,7 +12,7 @@ function App() {
       <BrowserRouter>
         <Navbar />
         <Routes>
-          <Route path="/careerio" element={<Home />} />
+          <Route path="/" element={<Home />} />
 
           <Route path="/about" element={<Error />} />
           <Route path="/contact" element={<Error />} />

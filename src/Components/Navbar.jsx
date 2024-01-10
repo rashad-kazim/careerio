@@ -26,7 +26,7 @@ const Navbar = () => {
       </div>
       <div
         className={hamburger === true ? "main_nav submenu_resp" : "main_nav"}>
-        <Link to="/careerio/" className="nav_item">
+        <Link to="/careerio" className="nav_item">
           Home
         </Link>
         <Link to="/about" className="nav_item">

@@ -37,7 +37,9 @@ const Navbar = () => {
         </Link>
       </div>
 
-      <Link to="/" className={hamburger === true ? "loqo loqo_margin" : "loqo"}>
+      <Link
+        to="/careerio"
+        className={hamburger === true ? "loqo loqo_margin" : "loqo"}>
         Landing
       </Link>
 

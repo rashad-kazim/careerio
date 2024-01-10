@@ -26,7 +26,7 @@ const Navbar = () => {
       </div>
       <div
         className={hamburger === true ? "main_nav submenu_resp" : "main_nav"}>
-        <Link to="/careerio" className="nav_item">
+        <Link to="/careerio/" className="nav_item">
           Home
         </Link>
         <Link to="/about" className="nav_item">
@@ -38,7 +38,7 @@ const Navbar = () => {
       </div>
 
       <Link
-        to="/careerio"
+        to="/careerio/"
         className={hamburger === true ? "loqo loqo_margin" : "loqo"}>
         Landing
       </Link>
